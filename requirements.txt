@@ -10,7 +10,7 @@ numexpr>=2.7.1
 tables>=3.6.1
 stochastic>=0.6.0
 
-pyyaml~=5.4
+pyyaml~=6.0.1
 
 PyFMI>=2.5
 
